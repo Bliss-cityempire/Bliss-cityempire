@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Bliss-cityempire
+# 👋 Hi, I’m Johnson Oluwaseyi Benjamin 
 
 ## 👀 I’m interested in ...
 - Python programming and its diverse applications.
